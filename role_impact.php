@@ -10,9 +10,12 @@
 					<hr/>
 					<h2 class="mb1em">How We Get to a Cure</h2>
 					<!-- @TODO add in video link -->
-					<a href="#">
+					<!-- <a href="http://www.youtube.com/watch?v=SmfnlAD3Rek" target="_blank">
 						<img src="images/videoimage.png" style="width:100%;"/>					
-					</a>
+					</a> -->
+					<div id="youtubeContainer" style="width:100%;">
+						<iframe width="560" height="315" src="http://www.youtube.com/embed/SmfnlAD3Rek" frameborder="0" allowfullscreen></iframe>
+					</div>
 					<hr/>
 					
 					
