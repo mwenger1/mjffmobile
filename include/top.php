@@ -22,9 +22,9 @@
 		<script src="js/jquery.mobile.min.js" type="text/javascript"></script>
 		<link rel="stylesheet" href="css/jquery.mobile.min.css" type="text/css" />
 		-->
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-		<script src="http://code.jquery.com/mobile/latest/jquery.mobile.min.js" type="text/javascript"></script>
-		<link rel="stylesheet" href="http://code.jquery.com/mobile/latest/jquery.mobile.min.css" type="text/css" />
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.css" />
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
 
 		<!-- *** TO ADD IN -->
 		<!-- <link rel="stylesheet" href="css/mjffmobile.min.css" type="text/css"/> -->
