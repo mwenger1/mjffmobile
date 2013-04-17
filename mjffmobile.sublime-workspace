@@ -1,0 +1,513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"js"
+			],
+			[
+				"toggle",
+				"slideToggle  (function)"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"funct",
+				"function_exists"
+			],
+			[
+				"comm",
+				"comm-subsection	Comment - Subsection comment"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/builds/PHP.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet html foun",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"snippet html",
+				"Snippet: HTML - HTML5 shiv"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"open browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"copy path ",
+				"File: Copy Path From Project"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"tasks new do",
+				"Tasks: New document"
+			],
+			[
+				"snip html goo",
+				"Snippet: HTML - Google Analytics"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"fetch pa",
+				"Fetch: Package"
+			],
+			[
+				"fetch file",
+				"Fetch: File"
+			],
+			[
+				"fetch	",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"prefi",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Snippet: HTML - Lorem Ipsum"
+			],
+			[
+				"snippet js ran	",
+				"Snippet: JS - Random number"
+			],
+			[
+				"comment",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"snippet html jquery",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"snippet: html",
+				"Snippet: HTML - Lorem Ipsum"
+			],
+			[
+				"snippet Css ",
+				"Snippet: CSS - cursor: pointer;"
+			],
+			[
+				"snippet",
+				"Snippet: CSS - :after"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet if	",
+				"Snippet: <?php if (…) ?> … <?php endif ?>"
+			],
+			[
+				"syntx javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle",
+				"View: Toggle Minimap"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax: java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michaelwenger/Google Drive/www/sandbox/mobile/offline.appcache",
+		"/Users/michaelwenger/Google Drive/www/sandbox/mobile/js/script.js",
+		"/Users/michaelwenger/Google Drive/www/sandbox/html5/offlinetest.html",
+		"/Users/michaelwenger/Google Drive/www/sandbox/mobile/modernizrtest.html",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test.html",
+		"/Users/michaelwenger/Google Drive/www/sandbox/html5/js/h5utils.js",
+		"/Users/michaelwenger/Google Drive/www/sandbox/html5/css/html5demos.css",
+		"/Users/michaelwenger/Google Drive/www/sandbox/html5/css/css.css",
+		"/Users/michaelwenger/Google Drive/www/sandbox/html5/js/javascript.js",
+		"/Users/michaelwenger/Google Drive/www/sandbox/offlinetest.html",
+		"/Users/michaelwenger/Google Drive/www/sandbox/chrome.sublime-build",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/michaelwenger/Google Drive/www/sandbox/.htaccess",
+		"/Users/michaelwenger/Google Drive/www/sandbox/mobile/js/modernizer.js",
+		"/Users/michaelwenger/Google Drive/www/sandbox/mobile/js/vendor/jquery-1.8.3.min.js",
+		"/Users/michaelwenger/Google Drive/www/sandbox/multidimensional.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/js/vendor/jquery-1.8.3.min.js",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Users/michaelwenger/Google Drive/www/sandbox/js/script.js",
+		"/Users/michaelwenger/Google Drive/www/sandbox/ajaxcall.html",
+		"/Users/michaelwenger/Google Drive/www/sandbox/ftf_international_ajax.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/testtest.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/ajaxphp.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/calendar/calendar.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/calendar/css/calendar.css",
+		"/Users/michaelwenger/Google Drive/www/sandbox/calendar/js/calendar.js",
+		"/Users/michaelwenger/Google Drive/www/sandbox/calendar.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/css/calendar.css",
+		"/Users/michaelwenger/Google Drive/www/sandbox/api/convio.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/ical.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/sandbox.sublime-project",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/test1.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/test2.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/test.conf",
+		"/Users/michaelwenger/Google Drive/www/sandbox/javascript/test.js",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/User/builds/PHP.sublime-build",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/User/builds/PHP-Lint.sublime-build",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test2.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/javascript/test.js",
+		"/Users/michaelwenger/Google Drive/www/sandbox/css/main.css",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test1.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test.css",
+		"/Users/michaelwenger/Google Drive/www/sandbox/my-class.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test.TODO",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test3.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/jquery.js",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default.sublime-keymap",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/michaelwenger/Google Drive/www/sandbox/style.css",
+		"/Users/michaelwenger/Google Drive/www/sandbox/boilerplate/test.html",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/User/Javascript/siaf.sublime-snippet",
+		"/Users/michaelwenger/Google Drive/www/sandbox/index.js",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test.coffee",
+		"/Users/michaelwenger/Documents/MJFF_REPO2/htdocs/cms/js/tiny_mce/plugins/searchreplace/css/searchreplace.css",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/strings_arrays_cookies_sessions_functions_classes.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/include/files.php",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/michaelwenger/Google Drive/www/mjffmobile/blog.php",
+		"/Users/michaelwenger/Desktop/password-protect-tutorial/index.html",
+		"/Users/michaelwenger/Desktop/test.php",
+		"/Users/michaelwenger/Google Drive/www/MJFFwebsite/site/mjff/include/chromePHP.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"con",
+			"html",
+			"open",
+			"michaeljfox",
+			"mod",
+			"style=\"display: inline-block;\nfont-size: 14px;\ncolor: #686d71;\nfont-weight: bold;\npadding-left: 10px;\"",
+			"style=\"-webkit-border-radius: 3px;\n-moz-border-radius: 3px;\n-ms-border-radius: 3px;\n-o-border-radius: 3px;\nborder-radius: 3px;\nheight: 22px;\nline-height: 22px;\nfont-size: 16px;\nborder-color: #D6E3E8; margin-bottom:3px; width:250px;\"",
+			"datestart",
+			"de",
+			"Deutsch",
+			"asis",
+			"Deutsch",
+			"sexua",
+			"brain",
+			"<li><a href=\"/understanding-parkinsons/living-with-pd/topic.php?deep-brain-stimulation\">Deep Brain Stimulation</a></li>",
+			"deep",
+			"parkinsons",
+			"<ul>",
+			"<ul>.*</ul>",
+			"<.*\"",
+			">",
+			"<a href=\".*\"> ",
+			"li.*",
+			"<h1>",
+			"lorem",
+			"url",
+			"close_windows_when_empty",
+			"false",
+			"fakefunction",
+			" $p;",
+			"case",
+			"$eve",
+			"test",
+			"text",
+			"Link",
+			"basename",
+			"seriously",
+			"fake",
+			"getcwd",
+			"get",
+			"condition",
+			"con",
+			"seriousl",
+			"echo",
+			"function",
+			"background",
+			"checkCountryValue",
+			"td",
+			"test",
+			"hello\n",
+			"really",
+			"hello",
+			"the name\n",
+			"test",
+			"redo",
+			"typing",
+			"test",
+			"typing",
+			"echo",
+			"\n$",
+			"redo",
+			"basename",
+			"dirname",
+			"$redo",
+			"$;",
+			"texting23",
+			"$directory",
+			"$directory ",
+			"img",
+			"the",
+			"The",
+			"p",
+			"< ",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"replacement"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 223.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mobile/js",
+				"mobile/js/script.js"
+			],
+			[
+				"test",
+				"test.html"
+			],
+			[
+				"test1.php",
+				"php/test1.php"
+			],
+			[
+				"test1",
+				"php/test1.php"
+			],
+			[
+				"test2",
+				"php/test2.php"
+			],
+			[
+				"test.c",
+				"test.css"
+			],
+			[
+				"style.css",
+				"htdocs/cms/css/style.css"
+			],
+			[
+				".css",
+				"htdocs/css/main.css"
+			],
+			[
+				"cms.css",
+				"htdocs/cms/js/tiny_mce/plugins/searchreplace/css/searchreplace.css"
+			],
+			[
+				"smellsurvey.php",
+				"htdocs/get-involved/smellsurvey.php"
+			],
+			[
+				"functions.php",
+				"php/strings_arrays_cookies_sessions_functions_classes.php"
+			],
+			[
+				"php/files",
+				"php/include/files.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/michaelwenger/Documents/MJFF REPO3 Container/mjffREAL.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true
+}
