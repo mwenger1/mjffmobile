@@ -34,27 +34,24 @@
 
 	</head>
 	<body>
-		<div id="menu">
-			<h3></h3>
-				<ul>
-					<li><a href="index.php" class="contentLink">Home</a></li>
-					<li><a href="https://secure3.convio.net/mjff/site/SPageNavigator/donatenow.html" class="contentLink">Donate</a></li>
-					<li><a href="blog.php" class="contentLink">News</a></li>
-					<li><a href="events.php" class="contentLink">Events </a></li>
-					<li><a href="teamfox.php" class="contentLink">Team Fox</a></li>
-					<li><a href="foxtrialfinder.php" class="contentLink">Fox Trial Finder</a></li>
-					<li><a href="role_impact.php" class="contentLink">Our Role & Impact</a></li>
-					<li><a href="researchers.php" class="contentLink">For Researchers</a></li>
-					<li><a href="newsletter-mobile.php" class="contentLink">Newsletter Signup</a></li>
-
-				</ul>
-		</div>
 		<div data-role="page" class="pages">
-			<!-- <div style="text-align:center;">
+			<div data-role="panel" id="menu2">
+				<h3></h3>
+					<ul>
+						<li><a href="index.php" class="contentLink">Home</a></li>
+						<li><a href="https://secure3.convio.net/mjff/site/SPageNavigator/donatenow.html" class="contentLink">Donate</a></li>
+						<li><a href="blog.php" class="contentLink">News</a></li>
+						<li><a href="events.php" class="contentLink">Events </a></li>
+						<li><a href="teamfox.php" class="contentLink">Team Fox</a></li>
+						<li><a href="foxtrialfinder.php" class="contentLink">Fox Trial Finder</a></li>
+						<li><a href="role_impact.php" class="contentLink">Our Role & Impact</a></li>
+						<li><a href="researchers.php" class="contentLink">For Researchers</a></li>
+						<li><a href="newsletter-mobile.php" class="contentLink">Newsletter Signup</a></li>
 
-			</div> -->
+					</ul>
+			</div>
 			<div data-role="header" class="header" data-theme="b" style="height:100%; text-align:center; background:#ffffff url(''); padding:.1em 0;">
-				<a data-role="none" href="#" class="showMenu headerBtn" ><span class="custom-menu"></span></a>
+				<a data-role="none" href="#menu2" class="showMenu headerBtn" ><span class="custom-menu"></span></a>
 				<image src="images/logo.png" style="width:70%" />
 <!--				<div style="width:70%; margin:0 auto; background:url('/../images/sprite.png') no-repeat 30px -187px; height:2em;"></div> 
 				<a data-role="none" data-rel="popup" href="#shareModal" class="showShare headerBtn"><span class="custom-share"></span></a>-->

@@ -2,7 +2,7 @@
 
 
 			</div>
-
+			
 			<div data-role="content" style="padding:0;">
 				<div class="headlineImageContainer" data-role="image">
 					<img style="width:100%;" src="images/mjf2.jpg" />
