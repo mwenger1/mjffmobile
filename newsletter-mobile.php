@@ -14,7 +14,7 @@
 								Email Address
 							</legend>
 -->
-							<input type="email" class="required" name="volunteer_email" id="email" required="required" placeholder="Email Address"/>
+							<input type="email" class="required" name="volunteer_email" class="email" required="required" placeholder="Email Address"/>
 						</fieldset>
 					</div>
 					<input type="submit" value="Submit" data-theme="a"/>
