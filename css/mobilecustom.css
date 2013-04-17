@@ -547,7 +547,7 @@ body {
 	text-shadow:0 1px 1px #000;
 }
 
-.ui-panel ul li a:hover,.ui-panel ul li a:active {
+.ui-panel ul li a:active {
 	background-color:#716f6f;
 }
 
