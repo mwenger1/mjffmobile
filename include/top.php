@@ -1,5 +1,5 @@
 <!DOCTYPE>
-<html>
+<html class="no-js">
 	<head>
 
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,7 +11,8 @@
 		<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png" />
 		<link rel="apple-touch-startup-image" href="apple-touch-startup-image-320x460.png" />
 		<link rel="apple-touch-startup-image" sizes="768x1004" href="apple-touch-startup-image-768x1004.png" />
-		<meta name="title" content="Mjff Blog News | The Michael J. Fox Foundation">
+		<meta name="title" content="The Michael J. Fox Foundation for Parkinson's Research">
+		<script src="js/modernizr.js"></script>
 		<meta name="description" content="">
 		<meta name="keywords" content="">
 		<meta name='robots' content='noindex, nofollow' />
