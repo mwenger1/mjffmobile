@@ -1,23 +1,21 @@
-// IF ON PRODUCTION VS STAGING
-$production = true;
 
+/*======================================================
+=            Add Class to Active Menu State            =
+======================================================*/
 $(document).on('panelbeforeopen', function() {
-    var p = $('.ui-page-active').attr('data-url');
+    var p = $('.ui-page-active').attr('data-url').split('/').pop();
     if(!p){
-         p = '/mjffmobile/index.php';
+         p = 'index.php';
     }
-
-    console.log('the active page is ' +p);
     $("#menu2 li a").each(function(){
         $link = $(this);
-        var hackLink = "/mjffmobile/" + ($link.attr('href'));
+        var hackLink = $link.attr('href');
         if (hackLink == p){
             $link.parent().addClass('active');
         }
         else {
             $link.parent().removeClass('active');
         }
-        console.log(hackLink);
     });
 });
 
