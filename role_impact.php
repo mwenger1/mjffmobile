@@ -10,8 +10,8 @@
 					<hr/>
 					<h2 class="mb1em">How We Get to a Cure</h2>
 					<!-- @TODO FIX YOUTUBE LINK. DISAPPEARS UPON RELOAD -->
-					<div id="youtubeContainer" style="width:100%;">
-						<iframe width="560" height="315" src="http://www.youtube.com/embed/SmfnlAD3Rek" frameborder="0" allowfullscreen></iframe>
+					<div class="video-container">
+						<iframe id="roleImpactVideo" width="560" height="315" src="http://www.youtube.com/embed/SmfnlAD3Rek" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<hr/>
 					
