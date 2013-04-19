@@ -191,7 +191,7 @@ font-size: 1.1em;
 	background-image: linear-gradient( #51B3D5,#51B3D5 ); 
 }
 
-.homepageTile .teamFoxTile {
+.homepageTile .teamfoxTile {
 	background-color:#4EAACD;
 		background-image: -webkit-gradient(linear,left top,left bottom,from( #4EAACD ),to( #4EAACD ));
 	background-image: -webkit-linear-gradient( #4EAACD,#4EAACD );
