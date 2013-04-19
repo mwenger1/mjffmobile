@@ -231,7 +231,7 @@ font-size: 1.1em;
 	background-image: linear-gradient( #388FB4,#388FB4 ); 
 }
 
-.newsTile:active, .teamfoxTile:active, .foxtrialfinderTile:active, .roleTile:active {
+.newsTile:active, .eventsTile:active, .teamfoxTile:active, .foxtrialfinderTile:active, .roleTile:active {
 	background-color:#3D8FB3;
 	background-image: -webkit-gradient(linear,left top,left bottom,from( #3D8FB3 ),to( #3D8FB3 ));
 	background-image: -webkit-linear-gradient( #3D8FB3,#3D8FB3 );
@@ -607,8 +607,19 @@ body {
 .video-container object,
 .video-container embed {
     position: absolute;
-    top: 0;
+    top: 0;¡
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+.viewFullSite, .viewFullSite:visited {
+	font-weight:normal !important;
+	line-height:42px !important;
+	color:white !important;
+	text-decoration:underline !important;
+}
+.viewFullSite:active {
+	color:#959595 !important;
+	text-decoration:none !important;
 }
