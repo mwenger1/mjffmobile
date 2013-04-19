@@ -1,12 +1,10 @@
 <?php include('include/top.php'); ?>
-				<h1 style="overflow:visible;">Blog Topics</h1>
-				<a href="blog.php" data-icon="arrow-l" data-direction="reverse" data-transition="slide">Back</a>
 			</div>
 
 			<div data-role="content">
 
 				<p class="mobileTagline">
-					Search the blog for what you care about.
+					Search the blog for topics that matter to you.
 				</p>
 				<ul id="allTags" data-role="listview" data-filter="true">
 					<li>

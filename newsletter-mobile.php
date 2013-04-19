@@ -10,10 +10,6 @@
 					<div data-role="fieldcontain">
 
 						<fieldset data-role="controlgroup">
-<!--							<legend>
-								Email Address
-							</legend>
--->
 							<input type="email" class="required" name="volunteer_email" class="email" required="required" placeholder="Email Address"/>
 						</fieldset>
 					</div>

@@ -32,7 +32,7 @@
 						Dave considers himself the type of person who is always looking to help others and it's touching to him that the team wants to help. "I am honored," he says. "This is such a humbling experience. Usually when someone has a disease, people don't like to talk about it. With this event, we can increase awareness of Parkinson's so that the community is more comfortable talking about it. And hopefully we can raise funds to make an impact on research."
 					</p>
 					<p>
-						To learn more about Azilect, visit our <a href="topic-mobile.php">Parkinson's medications page</a>.
+						To learn more about Azilect, visit our <a href="topic.php">Parkinson's medications page</a>.
 					</p>
 
 					<p class="smMobile">

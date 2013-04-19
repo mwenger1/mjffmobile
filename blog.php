@@ -121,6 +121,9 @@
 					<li>
 						<a href="#comingsoon"  data-rel="popup" data-transition="slidedown" data-position-to="window" data-iconpos="right" data-icon="arrow-r" >Team Fox</a>
 					</li>
+					<li>
+						<a data-transition="slide" href="blogtopics.php"  data-iconpos="right" data-icon="arrow-r" >Browse More Topics</a>
+					</li>
 
 				</ul>				
 			

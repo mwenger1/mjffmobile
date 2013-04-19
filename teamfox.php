@@ -1,7 +1,5 @@
 <?php include('include/top.php'); ?>
-			<!--	<h1>Donate</h1>
-				<a href="blog-detail.php" data-icon="arrow-l" data-direction="reverse" data-transition="slide">Back</a>
--->			</div>
+			</div>
 
 			<div data-role="content">
 								

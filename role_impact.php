@@ -1,15 +1,12 @@
 <?php include('include/top.php'); ?>
-<!--
-				<h1 style="overflow:visible;">Fox Trial Finder</h1>
-				<a href="blog-detail.php" data-icon="arrow-l" data-direction="reverse" data-transition="slide">Back</a>
-	-->		</div>
+
+		</div>
 
 			<div data-role="content">
 				<h2>Our Role & Impact</h2>
 					<p >The Michael J. Fox Foundation is dedicated to finding a cure for Parkinson's disease through an aggressively funded research agenda and to ensuring the development of improved therapies for those living with Parkinson's today.</p>
 					<hr/>
 					<h2 class="mb1em">How We Get to a Cure</h2>
-					<!-- @TODO FIX YOUTUBE LINK. DISAPPEARS UPON RELOAD -->
 					<div class="video-container">
 						<iframe id="roleImpactVideo" width="560" height="315" src="http://www.youtube.com/embed/SmfnlAD3Rek" frameborder="0" allowfullscreen></iframe>
 					</div>

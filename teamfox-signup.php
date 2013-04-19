@@ -1,8 +1,5 @@
 <?php include('include/top.php'); ?>
-<!--
-				<h1 style="overflow:visible;">Fox Trial Finder</h1>
-				<a href="blog-detail.php" data-icon="arrow-l" data-direction="reverse" data-transition="slide">Back</a>
-	-->		</div>
+		</div>
 
 			<div data-role="content">
 				<h2>TeamFox SignUp</h2>
@@ -27,26 +24,9 @@
 					<div data-role="fieldcontain">
 
 						<fieldset data-role="controlgroup">
-							<!--
-							<legend>
-								Email Address
-							</legend>
-							-->
 							<input type="email" class="required" name="volunteer_email" id="email" required="required" placeholder="Email Address"/>
 						</fieldset>
 					</div>
-
-				<!--	<div data-role="fieldcontain">
-
-						<fieldset data-role="controlgroup">
-							<legend>
-								E-Newsletter Signup
-							</legend>
-							<input type="checkbox" name="wants_newsletter" id="wants_newsletter" value="yes" checked="checked"/>
-							<label for="wants_newsletter">I would like to receive research updates from Michaeljfox.org</label>
-						</fieldset>
-					</div>
--->
 					<input type="hidden" name="ambassador_referral" value="Lily Capelletti" />
 					<input type="submit" value="Sign Up" data-theme="a"/>
 				</form>

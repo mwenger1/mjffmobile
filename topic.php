@@ -1,12 +1,9 @@
-<?php
-include ('include/top.php');
-?>
+<?php include ('include/top.php'); ?>
 
-<h1 style="overflow:visible;">Parkinson's Medications</h1>
-<a href="blog-detail.php" data-icon="arrow-l" data-direction="reverse" data-transition="slide">Back</a>
 </div>
 
 <div data-role="content">
+	<h2 class="mb1em">Parkinson's Medications</h2>
 	<img class="blogImage" src="https://www.michaeljfox.org/files/understanding-parkinsons/medicine.jpg" />
 	<div data-role="collapsible-set" data-collapsed="true" data-iconpos="right" class="topicQuestions" >
 		<div data-role="collapsible" data-collapsed="false" data-iconpos="right">

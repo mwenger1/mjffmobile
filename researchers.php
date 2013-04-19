@@ -1,8 +1,6 @@
 <?php include('include/top.php'); ?>
-<!--
-				<h1 style="overflow:visible;">Fox Trial Finder</h1>
-				<a href="blog-detail.php" data-icon="arrow-l" data-direction="reverse" data-transition="slide">Back</a>
-	-->		</div>
+
+		</div>
 
 			<div data-role="content">
 				<h2>Funding Strategy</h2>
