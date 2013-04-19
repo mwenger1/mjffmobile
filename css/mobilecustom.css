@@ -178,7 +178,7 @@ font-size: 1.1em;
 	background-image: -moz-linear-gradient( #53B9DC,#53B9DC );
 	background-image: -ms-linear-gradient( #53B9DC,#53B9DC );
 	background-image: -o-linear-gradient( #53B9DC,#53B9DC );
-	background-image: linear-gradient( #53B9DC,#53B9DC ); */
+	background-image: linear-gradient( #53B9DC,#53B9DC ); 
 }
 
 .homepageTile .eventsTile {
@@ -188,7 +188,7 @@ font-size: 1.1em;
 	background-image: -moz-linear-gradient( #51B3D5,#51B3D5 );
 	background-image: -ms-linear-gradient( #51B3D5,#51B3D5 );
 	background-image: -o-linear-gradient( #51B3D5,#51B3D5 );
-	background-image: linear-gradient( #51B3D5,#51B3D5 ); */
+	background-image: linear-gradient( #51B3D5,#51B3D5 ); 
 }
 
 .homepageTile .teamFoxTile {
@@ -198,7 +198,7 @@ font-size: 1.1em;
 	background-image: -moz-linear-gradient( #4EAACD,#4EAACD );
 	background-image: -ms-linear-gradient( #4EAACD,#4EAACD );
 	background-image: -o-linear-gradient( #4EAACD,#4EAACD );
-	background-image: linear-gradient( #4EAACD,#4EAACD ); */
+	background-image: linear-gradient( #4EAACD,#4EAACD ); 
 }
 
 .homepageTile .foxtrialfinderTile {
@@ -208,7 +208,7 @@ font-size: 1.1em;
 	background-image: -moz-linear-gradient( #3FA2C9,#3FA2C9 );
 	background-image: -ms-linear-gradient( #3FA2C9,#3FA2C9 );
 	background-image: -o-linear-gradient( #3FA2C9,#3FA2C9 );
-	background-image: linear-gradient( #3FA2C9,#3FA2C9 ); */
+	background-image: linear-gradient( #3FA2C9,#3FA2C9 ); 
 }
 
 .homepageTile .roleTile {
@@ -218,7 +218,7 @@ font-size: 1.1em;
 	background-image: -moz-linear-gradient( #3B99BF,#3B99BF );
 	background-image: -ms-linear-gradient( #3B99BF,#3B99BF );
 	background-image: -o-linear-gradient( #3B99BF,#3B99BF );
-	background-image: linear-gradient( #3B99BF,#3B99BF ); */
+	background-image: linear-gradient( #3B99BF,#3B99BF ); 
 }
 
 .homepageTile .researchersTile {
@@ -228,19 +228,28 @@ font-size: 1.1em;
 	background-image: -moz-linear-gradient( #388FB4,#388FB4 );
 	background-image: -ms-linear-gradient( #388FB4,#388FB4 );
 	background-image: -o-linear-gradient( #388FB4,#388FB4 );
-	background-image: linear-gradient( #388FB4,#388FB4 ); */
+	background-image: linear-gradient( #388FB4,#388FB4 ); 
 }
 
 /* @TODO apply to all tiles */ 
-.newsTile:focus, .newsTile:active, .newsTile:hover {
+.newsTile:active, .teamFoxTile:active, .foxtrialfinderTile:active, .roleTile:active {
 	background-color:#3D8FB3;
 	background-image: -webkit-gradient(linear,left top,left bottom,from( #3D8FB3 ),to( #3D8FB3 ));
 	background-image: -webkit-linear-gradient( #3D8FB3,#3D8FB3 );
 	background-image: -moz-linear-gradient( #3D8FB3,#3D8FB3 );
 	background-image: -ms-linear-gradient( #3D8FB3,#3D8FB3 );
 	background-image: -o-linear-gradient( #3D8FB3,#3D8FB3 );
-	background-image: linear-gradient( #3D8FB3,#3D8FB3 ); */
+	background-image: linear-gradient( #3D8FB3,#3D8FB3 ); 
 
+}
+.researchersTile:active {
+	background-color:#53B9DC;
+		background-image: -webkit-gradient(linear,left top,left bottom,from( #53B9DC ),to( #53B9DC ));
+	background-image: -webkit-linear-gradient( #53B9DC,#53B9DC );
+	background-image: -moz-linear-gradient( #53B9DC,#53B9DC );
+	background-image: -ms-linear-gradient( #53B9DC,#53B9DC );
+	background-image: -o-linear-gradient( #53B9DC,#53B9DC );
+	background-image: linear-gradient( #53B9DC,#53B9DC ); 
 }
 
 
