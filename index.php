@@ -8,7 +8,7 @@
 					<img style="width:100%;" src="images/mjf2.jpg" />
 					
 				</div>
-				<a href="https://secure3.convio.net/mjff/site/SPageNavigator/donatenow.html" data-theme="a" data-transition="slide" class="donateBtn" data-role="button" >Donate Now</a>
+				<a href="donation.php" data-theme="a" data-transition="slide" class="donateBtn" data-role="button" >Donate Now</a>
 
 	<div class="ui-grid-b homepageTile">
 	    <a class="wrappingAnchor" data-transition="slide" href="blog.php">

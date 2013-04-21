@@ -34,7 +34,7 @@
 				<h3></h3>
 					<ul>
 						<li><a href="index.php" class="contentLink">Home</a></li>
-						<li><a href="https://secure3.convio.net/mjff/site/SPageNavigator/donatenow.html" class="contentLink">Donate</a></li>
+						<li><a href="donation.php" class="contentLink">Donate</a></li>
 						<li><a href="blog.php" class="contentLink">News</a></li>
 						<li><a href="events.php" class="contentLink">Events </a></li>
 						<li><a href="teamfox.php" class="contentLink">Team Fox</a></li>
