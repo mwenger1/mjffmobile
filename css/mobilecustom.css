@@ -635,3 +635,7 @@ body {
 .ui-collapsible-content ul {
 	list-style-type: circle;
 }
+
+.ui-grid-b .ui-block-a, .ui-grid-b .ui-block-b, .ui-grid-b .ui-block-c {
+width: 33.33%;
+}
