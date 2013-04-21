@@ -364,6 +364,8 @@ font-size: 1.1em;
 .blogFeed .ui-li-has-arrow .ui-btn-inner a.ui-link-inherit,
 .eventFeed .ui-li-has-arrow .ui-btn-inner .ui-btn-text a.ui-link-inherit{
 	padding-right:15px;	
+	padding-top:2em;
+	padding-bottom:2em;
 	
 }
 
