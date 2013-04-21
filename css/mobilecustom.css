@@ -625,3 +625,13 @@ body {
 	color:#959595 !important;
 	text-decoration:none !important;
 }
+
+.ui-collapsible-content {
+	margin:0 0;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;	
+}
+
+.ui-collapsible-content ul {
+	list-style-type: circle;
+}
