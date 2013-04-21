@@ -8,7 +8,7 @@
 					<img style="width:100%;" src="images/mjf2.jpg" />
 					
 				</div>
-				<a href="donation.php" data-theme="a" data-transition="slide" class="donateBtn" data-role="button" >Donate Now</a>
+				<a data-transition="slide" href="donation.php" data-theme="a"  class="donateBtn" data-role="button" >Donate Now</a>
 
 	<div class="ui-grid-b homepageTile">
 	    <a class="wrappingAnchor" data-transition="slide" href="blog.php">

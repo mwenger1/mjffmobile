@@ -4,7 +4,7 @@
 -->			</div>
 
 			<div data-role="content">
-				<h2>Support Parkinson's Research</h2>
+				<h2>Support PD Research</h2>
 				<p>
 					88 cents on every dollar goes to research programs and ultimately better treatments for patients.
 				</p>
@@ -456,5 +456,5 @@
 			</div>	
 		
 		<input type="submit" name="donate_button" id="donAPIFormSubmit-1861" value="Submit Your Contribution" data-theme="a">
-		<p>Donations to The Michael J. Fox Foundation for Parkinson's Research are tax-deductible to the full extent of the law.</p>
+		<p style="font-size:.8em;">Donations to The Michael J. Fox Foundation for Parkinson's Research are tax-deductible to the full extent of the law.</p>
 <?php include('include/bottom.php'); ?>
