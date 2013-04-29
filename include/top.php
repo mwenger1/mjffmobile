@@ -12,12 +12,7 @@
 		<link rel="apple-touch-startup-image" href="apple-touch-startup-image-320x460.png" />
 		<link rel="apple-touch-startup-image" sizes="768x1004" href="apple-touch-startup-image-768x1004.png" />
 		<meta name="title" content="The Michael J. Fox Foundation for Parkinson's Research">
-		<script src="https://raw.github.com/drowne/jquery.mobile.fastclick/master/zepto.onpress.js"></script>
-		<script>
-				window.addEventListener('load', function() {
-		    new FastClick(document.body);
-		}, false);
-		</script>
+
 		<script src="js/modernizr.js"></script>
 		<meta name="description" content="">
 		<meta name="keywords" content="">
@@ -32,6 +27,88 @@
 		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.css" />
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 		<script src="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
+		
+		<script>
+// jquery.mobile.fastButtons.js
+
+
+// Justin McCandless
+
+
+// justinmccandless.com
+
+
+// jQuery 1.6.4+
+
+
+// jQuery Mobile 1.0.1+
+
+
+
+
+
+// This jQuery Mobile plugin makes click events faster, especially iOS
+
+
+// It does this by simply replacing 'click' events on document with 'vclick'
+
+
+
+
+
+var fastButtons = {
+
+
+        
+
+
+        replace: function() {
+
+
+                // copy the current click events on document
+
+
+                var clickEvents = jQuery.hasData( document ) && jQuery._data( document ).events.click;
+
+
+                clickEvents = jQuery.extend(true, {}, clickEvents);
+
+
+                
+
+
+                // remove these click events
+
+
+                $(document).off('click');
+
+
+        
+
+
+                // reset them as vclick events
+
+
+                for (var i in clickEvents) {
+
+
+                        $(document).on('vclick', clickEvents[i].handler);
+
+
+                }
+
+
+        }
+
+
+};
+
+
+
+
+
+fastButtons.replace();
+		</script>
 		<link rel="stylesheet" href="css/mobilecustom.css" type="text/css"/>
 	</head>
 	<body>
