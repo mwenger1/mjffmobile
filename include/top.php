@@ -12,7 +12,7 @@
 		<link rel="apple-touch-startup-image" href="apple-touch-startup-image-320x460.png" />
 		<link rel="apple-touch-startup-image" sizes="768x1004" href="apple-touch-startup-image-768x1004.png" />
 		<meta name="title" content="The Michael J. Fox Foundation for Parkinson's Research">
-		<script src="https://raw.github.com/ftlabs/fastclick/master/lib/fastclick.js"></script>
+		<script src="https://raw.github.com/drowne/jquery.mobile.fastclick/master/zepto.onpress.js"></script>
 		<script>
 				window.addEventListener('load', function() {
 		    new FastClick(document.body);
